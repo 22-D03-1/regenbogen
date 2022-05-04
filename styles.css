@@ -1,0 +1,39 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 0px;
+}
+
+.streifen {
+    height: 100%;
+    width: 20%;
+    display: inline-block;
+}
+
+.rot {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
